@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['range_561',['Range',['https://dotnet.typedrest.net/class_typed_rest_1_1_http_1_1_partial_response.html#add0513bbc2e61d2694ac0a7a4b5666b7',1,'TypedRest::Http::PartialResponse']]],
+  ['rangeunit_562',['RangeUnit',['https://dotnet.typedrest.net/class_typed_rest_1_1_endpoints_1_1_generic_1_1_collection_endpoint.html#a707125d25d769916debc4a67752cdab8',1,'TypedRest::Endpoints::Generic::CollectionEndpoint']]],
+  ['readallallowed_563',['ReadAllAllowed',['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_generic_1_1_i_collection_endpoint.html#ae3c869ab6eddbe4190fee3e03007575a',1,'TypedRest::Endpoints::Generic::ICollectionEndpoint::ReadAllAllowed()'],['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_generic_1_1_i_collection_endpoint.html#ae3c869ab6eddbe4190fee3e03007575a',1,'ICollectionEndpoint&lt; TEntity, TElementEndpoint &gt;::ReadAllAllowed()']]],
+  ['readrangeallowed_564',['ReadRangeAllowed',['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_generic_1_1_i_collection_endpoint.html#a670397563a8dbc7761421722d752b1ea',1,'TypedRest::Endpoints::Generic::ICollectionEndpoint::ReadRangeAllowed()'],['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_generic_1_1_i_collection_endpoint.html#a670397563a8dbc7761421722d752b1ea',1,'ICollectionEndpoint&lt; TEntity, TElementEndpoint &gt;::ReadRangeAllowed()']]],
+  ['records_565',['Records',['../class_power_dns_1_1_client_1_1_models_1_1_record_set.html#a21d506cc3bafc97ede7dca7d25982769',1,'PowerDns::Client::Models::RecordSet']]],
+  ['recordsets_566',['RecordSets',['../class_power_dns_1_1_client_1_1_models_1_1_zone.html#a3ab6dd89eb7e0cb75e51170b6fb80855',1,'PowerDns::Client::Models::Zone']]],
+  ['rel_567',['Rel',['https://dotnet.typedrest.net/class_typed_rest_1_1_links_1_1_link.html#a1c09156612e58f62acd7dc4bdb14762d',1,'TypedRest::Links::Link']]],
+  ['response_568',['Response',['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_generic_1_1_i_element_endpoint.html#af9252a4ec39e4df46217a69d7dfcfcd8',1,'TypedRest::Endpoints::Generic::IElementEndpoint::Response()'],['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_generic_1_1_i_element_endpoint.html#af9252a4ec39e4df46217a69d7dfcfcd8',1,'IElementEndpoint&lt; TEntity &gt;::Response()']]],
+  ['responsecache_569',['ResponseCache',['https://dotnet.typedrest.net/interface_typed_rest_1_1_endpoints_1_1_i_caching_endpoint.html#a83f52bea235e6f3660176753f71f27bb',1,'TypedRest::Endpoints::ICachingEndpoint']]]
+];
